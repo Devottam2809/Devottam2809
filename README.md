@@ -1,5 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello_World_!!🧑‍💻&width=1200&height=200)
-<h1 align="center">Hi 👋, I'm Devottam Chakraborty</h1>
+<h1 align="center">Hi 👋, I'm DC</h1>
 <h3 align="center">I am passionate about technology, innovation and big challenging tasks on my to do list.</h3>
 <br>
 <img align="right" alt="codingpic" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47h11lxzv71fm4aulkvv5fliz6ajogjlwa31shjgqy&rid=giphy.gif&ct=g">
