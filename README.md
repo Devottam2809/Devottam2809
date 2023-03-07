@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bumblebee - The MULTI-Purpose Voice Assistant**
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I am passionate to develop GUI **using Tkinter**
 
