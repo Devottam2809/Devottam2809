@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://replit.com/@Devottam2809" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431)" alt="__its_dc__" height="30" width="40" /></a>
+  <a href="https://replit.com/@Devottam2809" target="blank"><img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://blog.replit.com/images/new_logo/logotype.png?v=1664916455431)](https://upload.wikimedia.org/wikipedia/commons/7/78/New_Replit_Logo.svg)" alt="__its_dc__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/devottam-chakraborty-427790228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devottam chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/__its_dc__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__its_dc__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dc2003" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="dc2003" height="30" width="40" /></a>
