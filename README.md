@@ -38,7 +38,7 @@
 
 <h3 align="left">GUI Development</h3>
 <p align="left">
-<a href="https://www.tutorialspoint.com/python/python_gui_programming.htm" target="_blank" rel="noreferrer"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=nVJrlzoB&id=9BD6270D6115B8AC6EA8F38DB3FE20A170F201EB&thid=OIP.nVJrlzoB6kySam_-0BtO2gAAAA&mediaurl=https%3a%2f%2fstatic.javatpoint.com%2fpython%2fimages%2ftkinter-tutorial.png&exph=200&expw=200&q=tkinter+svg&simid=608014726471762397&FORM=IRPRST&ck=C4A22D625BB3FD15CCEB506A9EB3485D&selectedIndex=9" alt="qt" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+<h3 align="left">Tkinter</h3></a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 
 </p>
 
