@@ -38,7 +38,7 @@
 
 <h3 align="left">GUI Development</h3>
 <p align="left">
-<h3 align="left">Tkinter</h3></a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+<h3 align="left">Tkinter</h3><a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" float="left" alt="qt" width="40" height="40"/> </a> 
 
 </p>
 
