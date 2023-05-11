@@ -36,10 +36,9 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left"></h3>
+<h3 align="left">GUI Development</h3>
 <p align="left">
-<a href="https://www.tutorialspoint.com/python/python_gui_programming.htm" target="_blank" rel="noreferrer"> <img src="GUI Dev![tkinter](https://github.com/Devottam2809/Devottam2809/assets/96367023/4ab960ac-7918-4d32-9b98-6a3520155614)
-elopment" alt="qt" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+<a href="https://www.tutorialspoint.com/python/python_gui_programming.htm" target="_blank" rel="noreferrer"> <img src="https://www.bing.com/images/search?view=detailV2&ccid=nVJrlzoB&id=9BD6270D6115B8AC6EA8F38DB3FE20A170F201EB&thid=OIP.nVJrlzoB6kySam_-0BtO2gAAAA&mediaurl=https%3a%2f%2fstatic.javatpoint.com%2fpython%2fimages%2ftkinter-tutorial.png&exph=200&expw=200&q=tkinter+svg&simid=608014726471762397&FORM=IRPRST&ck=C4A22D625BB3FD15CCEB506A9EB3485D&selectedIndex=9" alt="qt" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 
 </p>
 
