@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I am passionate to develop GUI **using Tkinter**
+- 👯 I am passionate about **Technology**
 
 - 💬 Ask me about **C, C++, Python, Tkinter, HTML, CSS, JavaScript**
 
