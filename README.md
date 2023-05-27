@@ -11,7 +11,7 @@
 
 - 👯 I am passionate about **Technology**
 
-- 💬 Ask me about **C, C++, Python, Tkinter, HTML, CSS, JavaScript**
+- 💬 Ask me about **CP**
 
 - 📫 How to reach me **devottam2809@gmail.com**
 
