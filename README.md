@@ -5,9 +5,9 @@
 <img align="right" alt="codingpic" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47h11lxzv71fm4aulkvv5fliz6ajogjlwa31shjgqy&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devottam2809&label=Profile%20views&color=0e75b6&style=flat" alt="devottam2809" /> </p>
 
-- 🔭 I’m currently working on **CloneGPT Chat**
+- 🔭 I’m currently working on **UrbanScape**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m a **Web Developer**
 
 - 👯 I am passionate about **Technology**
 
